@@ -1,0 +1,23 @@
+{
+  "name": "-ajs_16-ajs-homeworks-platforms-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllaKru/-ajs_16-ajs-homeworks-platforms-node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllaKru/-ajs_16-ajs-homeworks-platforms-node.js/issues"
+  },
+  "homepage": "https://github.com/AllaKru/-ajs_16-ajs-homeworks-platforms-node.js#readme",
+  "dependencies": {
+    "@allakru/ajs_16-ajs-homeworks-platforms": "^2.0.0"
+  }
+}
